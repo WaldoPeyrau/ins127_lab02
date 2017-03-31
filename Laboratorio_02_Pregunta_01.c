@@ -1,3 +1,17 @@
+/**************************************************
+* PROGRAMA : Laboratorio 02 - Pregunta 01
+* OBJETIVO : Impletar el uso de punteros y matrices
+* Fecha creacion : 30 / 03 / 2017
+* GRUPO : 
+			Alex Ceverino Chuquiano
+			Waldo Peyrau Morales
+			Cristian Rojas Saavedra
+			
+* ASIGNATURA : Estructura de Datos 
+* SECCION : 651
+* FECHA DE ULTIMA ACTUALIZACION : 31 / 03 / 2017
+***************************************************/
+
 #include <stdio.h>
 #include <math.h>
 // declaracion de la estructura
