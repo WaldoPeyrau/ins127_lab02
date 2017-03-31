@@ -43,7 +43,7 @@ float valor_absoluto(Complex x){
 //procedimiento que imprime el conjugado del número complejo
 void conjugado(Complex z){
 	
-	printf("conjugado de x: %d + %di",Re(z),Im(z));
+	printf("conjugado de x: %d + %di",Im(z),Re(z));
 
 }	
 
@@ -63,7 +63,7 @@ int main(){
 	printf("parte imaginaria de x: %d\n",aux);
 	//se asigna a la variable el valor absoluto del número complejo
 	aux = valor_absoluto(x);
-	printf("valor absoluto de x: %d",aux);
+	printf("valor absoluto de x: %d\n",aux);
 	// se invoca la funcion conjugado (void)
 	conjugado(x);
 	
